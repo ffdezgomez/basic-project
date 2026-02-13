@@ -14,7 +14,9 @@
   "devDependencies": {
     "eslint": "^9.39.2",
     "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-tsdoc": "^0.5.0",
     "tsc-watch": "^7.2.0",
+    "typedoc": "^0.28.16",
     "typescript": "^5.9.3",
     "typescript-eslint": "^8.55.0"
   }
