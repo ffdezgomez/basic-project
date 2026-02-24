@@ -10,7 +10,7 @@
  * @param y - Second number tu add
  * @returns First and second number addition
  */
-function add(x: number, y: number): number {
+export function add(x: number, y: number): number {
   return x + y
 }
 
